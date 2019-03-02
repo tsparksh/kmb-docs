@@ -12,6 +12,5 @@ __Стеганография__ — это наука о скрытой пере�
 ## Инструменты
 > * http://www.securitylab.ru/software/1312/
 > * https://www.wechall.net/forum/show/thread/527/Stegsolve_1.3
-> * http://www.openstego.info/
 > * Audacuty
 > * Sonic Visualiser
